@@ -1,0 +1,4 @@
+service: () -> {
+    getVotes: (text) -> (text) query;
+    voteForCandidate: (text) -> ();
+}
